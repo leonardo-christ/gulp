@@ -1,0 +1,13 @@
+@use 'variavel';
+
+body {
+    background-color: variavel.$corBody;
+}
+
+header {
+    background-color: variavel.$corHeader;
+}
+
+section {
+    background-color: variavel.$corSection;
+}
